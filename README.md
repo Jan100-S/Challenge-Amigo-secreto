@@ -12,6 +12,17 @@ Um projeto simples para gerenciar e sortear amigos secretos.
    - Clique em "Sortear amigo" para escolher aleatoriamente um nome da lista.
    - O resultado será exibido na tela.
 
+## Screenshots
+
+### Tela inicial
+![Tela inicial](assets/screenshots/tela-inicial.png)
+
+### Lista de amigos
+![Lista de amigos](assets/screenshots/lista-amigos.png)
+
+### Resultado do sorteio
+![Resultado do sorteio](assets/screenshots/resultado-sorteio.png)
+
 ## Tecnologias utilizadas
 
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
